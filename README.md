@@ -4,11 +4,13 @@
 <h3>Junior Frontend Developer</h3>
 
 <h3>CONTACT</h3>
+<span><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_nK3-VeNdmJT7lM5sw0-mX2dBWJpqhVwInA&usqp=CAU" width="25px"/>  Bishkek, Kyrgyzstan</span> <br/>
 <span><a href="tel://996700398354"><img src="https://cdn-icons-png.flaticon.com/512/6596/6596115.png" width="25px"/></span><span>  +996 700 398 354</a></span> <br/>
 <span><a href="mailto:alinabeyjp@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/3178/3178158.png" width="25px"/></span><span>  alinabeyjp@gmail.com</a></span> <br/>
 <span><a href="https://www.linkedin.com/in/alina-akylbekova/"><img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" width="25px"/></span><span>  linkedin.com/in/alina-akylbekova</a></span> <br/>
 <span><a href="https://github.com/Alinochka07/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968896.png" width="25px"/></span><span>  github.com/Alinochka07</a></span> <br/>
 <span><a href="https://t.me/Alinajp"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqpOxO2MQs8k69KaLNPb-WKjTD7PVFgtn2P4W-iRc&s" width="25px"/></span><span>  t.me/Alinajp</a></span> <br/>
+
 
 <h3>SUMMARY</h3>
 <p>Ready for new challenges and committed to achieving exceptional results. Easily learn, adapt, and integrate into a team.
@@ -76,7 +78,6 @@ Using my enthusiasm and adaptability, let me make a significant impact and contr
 <h4>Master of Business Administration</h4>
 <p>International University of Kyrgyzstan</p>
 
-<br/>
 
 <h3>LANGUAGE SKILLS</h3>
 <ul>
